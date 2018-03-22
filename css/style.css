@@ -50,3 +50,7 @@ input {
 	color: #4267B2;
 	border-color: #4267B2;
 }
+
+img {
+	max-width: 100px;
+}
